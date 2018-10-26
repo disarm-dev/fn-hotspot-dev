@@ -1,6 +1,0 @@
-disarm-gears
-numpy
-matplotlib
-pandas
-sklearn
-pygam

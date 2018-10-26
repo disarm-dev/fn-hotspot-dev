@@ -1,1 +1,0 @@
-# fn-hotspot-dev
